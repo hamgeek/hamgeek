@@ -16,3 +16,12 @@
 🌟 I believe that software development is not just about writing code, but also about creating solutions that bring value to end-users. I always strive to create products that can transform how people interact with technology.
 
 🎯 I am always looking for opportunities to grow and learn new things in the technology industry. If you have any exciting opportunities for collaboration, I would love to hear about them!
+
+
+
+<a href="https://github.com/zuramai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamgeek&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/zuramai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamgeek&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
