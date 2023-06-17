@@ -20,8 +20,8 @@
 
 
 <a href="https://github.com/zuramai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamgeek&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamgeek&count_private=true&show_icons=true&bg_color=00000000" />
 </a>
 <a href="https://github.com/zuramai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamgeek&layout=compact&theme=chartreuse-dark&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamgeek&layout=compact" />
 </a>
