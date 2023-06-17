@@ -6,9 +6,7 @@
 
 <div>
   <a href="https://github.com/hamgeek?tab=repositories">
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=hamgeek&show_icons=true&theme=react&count_private=true" /></a>
+    <img height="140" src="https://github-readme-stats.vercel.app/api?username=hamgeek&show_icons=true&theme=react&count_private=true" />
     <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamgeek&layout=compact&theme=react&langs_count=6" />
-  <a href="https://wakatime.com/@hamgeek">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamgeek&layout=compact&theme=react&langs_count=6" />
   </a>
 </div>
