@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### 💫 About Me:
 👨‍💻 I'm Muhammad Ilham, a passionate Fullstack Developer dedicated to creating innovative and high-quality solutions. I am currently pursuing a bachelor's degree in Computer Science through a distance learning program at Open University.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hmwithu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamconnect) 
